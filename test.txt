@@ -4,3 +4,5 @@ v3
 quick & simple
 v4
 no fast forward
+stash
+v6
